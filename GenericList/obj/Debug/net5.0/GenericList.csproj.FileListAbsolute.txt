@@ -1,0 +1,16 @@
+D:\List_sample\GenericList\bin\Debug\net5.0\GenericList.exe
+D:\List_sample\GenericList\bin\Debug\net5.0\GenericList.deps.json
+D:\List_sample\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+D:\List_sample\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+D:\List_sample\GenericList\bin\Debug\net5.0\GenericList.dll
+D:\List_sample\GenericList\bin\Debug\net5.0\ref\GenericList.dll
+D:\List_sample\GenericList\bin\Debug\net5.0\GenericList.pdb
+D:\List_sample\GenericList\obj\Debug\net5.0\GenericList.csproj.AssemblyReference.cache
+D:\List_sample\GenericList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\List_sample\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+D:\List_sample\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+D:\List_sample\GenericList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+D:\List_sample\GenericList\obj\Debug\net5.0\GenericList.dll
+D:\List_sample\GenericList\obj\Debug\net5.0\ref\GenericList.dll
+D:\List_sample\GenericList\obj\Debug\net5.0\GenericList.pdb
+D:\List_sample\GenericList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
